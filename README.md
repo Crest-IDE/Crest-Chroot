@@ -1,6 +1,6 @@
 # crest-chroot
 
-A high-performance, **ptrace-free** chroot and bind-mount emulation engine tailored specifically for [Crest-Editor](https://github.com/Crest-Editor-Dev/Crest-Editor) on Android (AArch64).
+A high-performance, **ptrace-free** chroot and bind-mount emulation engine tailored specifically for [Crest-IDE](https://github.com/Crest-IDE/Crest-IDE) on Android (AArch64).
 
 ---
 
